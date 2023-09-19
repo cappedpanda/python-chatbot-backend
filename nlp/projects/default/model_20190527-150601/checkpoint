@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\user\\Desktop\\RH_Chatbot\\projects\\default\\model_20190527-150601\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\RH_Chatbot\\projects\\default\\model_20190527-150601\\intent_classifier_tensorflow_embedding.ckpt"

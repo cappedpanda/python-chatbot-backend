@@ -1,0 +1,18 @@
+{
+  "_id": {
+    "$oid": "5d1f393d7d37970e3caf9746"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1557187200000"
+    }
+  },
+  "text": "",
+  "intent": "",
+  "intent_confidence": {
+    "$numberDouble": "0.995937642728"
+  },
+  "entities": [
+    ""
+  ]
+}

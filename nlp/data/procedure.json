@@ -1,0 +1,793 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "j'ai besoin de connaitre quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie d'être informé de quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie d'être informé de les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je connaitre quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je savoir quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin d'être informé de les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux savoir quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux connaitre comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie d'être informé de le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je savoir comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je savoir les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je connaitre quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je connaitre quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de savoir le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être informé de quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je connaitre le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je être informé de quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux savoir les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux connaitre les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux être informé de la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin d'être informé de le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je savoir les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de connaitre les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je savoir les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux être informé de quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de connaitre les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux connaitre la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie d'être informé de les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de savoir comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je être informé de quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux connaitre comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux connaitre les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être informé de le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être informé de comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux être informé de comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie d'être informé de la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de connaitre quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je savoir comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de savoir quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je connaitre le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je connaitre comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de connaitre comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux savoir comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux savoir la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être informé de quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux connaitre quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de connaitre quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de savoir quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux connaitre comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je connaitre les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux connaitre le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux savoir le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux savoir quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être informé de les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de connaitre quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je connaitre comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de savoir quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux être informé de les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux connaitre la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je connaitre comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux connaitre les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être informé de le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux connaitre quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de savoir la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux être informé de quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de savoir les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je connaitre quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je être informé de la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux savoir la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux savoir les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux être informé de le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de savoir quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de savoir comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux savoir quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie d'être informé de quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin d'être informé de les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de connaitre les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de savoir les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux être informé de comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je connaitre comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de connaitre comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je savoir la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être informé de la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de savoir la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin d'être informé de quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je savoir le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de connaitre la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je connaitre la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de savoir les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin d'être informé de quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux connaitre les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je connaitre les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je savoir les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de connaitre comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux savoir comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être informé de comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin d'être informé de comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de connaitre les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je savoir quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de savoir les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de connaitre la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je être informé de les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être informé de les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin d'être informé de comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je savoir quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de connaitre comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux connaitre quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je savoir la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je être informé de comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je connaitre les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux connaitre le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je être informé de le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de savoir comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être informé de quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je savoir comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux savoir quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux savoir le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être informé de les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être informé de comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je savoir le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je être informé de les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de connaitre le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de connaitre le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être informé de comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux connaitre quoi faire pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je savoir comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin d'être informé de la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je être informé de comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je savoir quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux savoir les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être informé de quoi faire pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie d'être informé de comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie de savoir comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai envie d'être informé de comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je connaitre les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être informé de la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux savoir les étapes à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux savoir comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "j'ai besoin de savoir le processus d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux être informé de les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux savoir comment avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "je veux connaitre comment obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "puis-je connaitre la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être informé de les étapes à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "quelle est la procédure à suivre pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "quelle est la procédure d'obtention de congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "quelle est la procédure pour obtenir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "quelle est la procédure à suivre pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      },
+      {
+        "text": "quelle est la procédure pour avoir un congé",
+        "intent": "procédure_congé",
+        "entities": []
+      }
+    ]
+  }
+}

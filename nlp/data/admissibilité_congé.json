@@ -1,0 +1,1293 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "quelles sont les conditions pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "dès combien de temps je peux être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je peux obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "dès combien de temps je peux demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "après combien de temps je peux demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "dès combien de temps je peux obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "à partir de combien de temps je peux avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je peux être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "suis-je capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je peux demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "à partir de combien de temps je peux obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "après combien de temps je peux être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je peux avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "à partir de combien de temps je peux demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "peux-je demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "suis-je capable d'être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "suis-je capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "à partir de combien de temps je peux bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour que je peux bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "à partir de combien de temps je peux être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "après combien de temps je peux bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "dès combien de temps je peux bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à valider pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "après combien de temps je peux avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que je peux obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "après combien de temps je peux obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans l'entreprise pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans la société pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de l'entreprise pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour être capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour que je sois capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "suis-je capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour que je sois capable de demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer au sein de la société pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour demander un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à respecter pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "suis-je capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer dans l'entreprise pour être bénéficiaire d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour que je sois capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "dès combien de temps je peux avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de l'entreprise pour obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les conditions à valider pour bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est la durée que je dois passer au sein de la société pour être capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer dans la société pour avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quel est le délai que je dois passer pour être capable d'obtenir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "combien de temps je dois passer pour être capable d'avoir un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "quelles sont les critères à respecter pour que je sois capable de bénéficier d'un congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      },
+      {
+        "text": "est-ce que j'ai le droit en congé",
+        "intent": "admissibilite_congé",
+        "entities": []
+      }
+    ]
+  }
+}
