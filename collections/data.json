@@ -1,0 +1,66 @@
+{
+  "_id": {
+    "$oid": "5ce5392e24be5141b0472272"
+  },
+  "intent": "admissibilite_congé",
+  "response": [
+    "Pour que vous serez capable d’obtenir un congé annuel, vous devez passer une période minimale de 6 mois en travaillant dans l’entreprise.",
+    "Pour acquérir la possibilité d’obtenir un congé annuel, il faut passer une période minimale de 6 mois en travaillant dans l’entreprise.",
+    "Afin d’avoir la possibilité de bénéficier d’un congé annuel, vous devez passer une période minimale de 6 mois en travaillant dans l’entreprise."
+  ]
+}
+{
+  "_id": {
+    "$oid": "5ce53c4d24be5141b0472273"
+  },
+  "intent": "duree_conge",
+  "entity": "naissance",
+  "response": "Le salarié bénéficie de 3 jours de congé continus et payés par son employeur en cas de naissance ou d’adoption."
+}
+{
+  "_id": {
+    "$oid": "5ce540ff24be5141b0472276"
+  },
+  "intent": "duree_conge",
+  "entity": "mariage",
+  "response": "Le salarié bénéficie de 4 jours de congé en cas de son mariage et 2 jours si le mariage est d'un enfant du salarié ou d'un enfant issu d'un précédent mariage du conjoint du salarié."
+}
+{
+  "_id": {
+    "$oid": "5ce5419124be5141b0472277"
+  },
+  "intent": "duree_conge",
+  "entity": "decès",
+  "response": "En cas de décès d'un conjoint, d'un enfant, d'un petit-enfant, d'un ascendant du salarié ou d'un enfant issu d'un précédent mariage du conjoint du salarié ; la période du congé est 3 jours. <br/>En cas de décès d'un frère, d'une sœur du salarié, d'un frère ou d'une sœur du conjoint de celui-ci ou d'un ascendant du conjoint ; la période du congé est 2 jours."
+}
+{
+  "_id": {
+    "$oid": "5ce541e924be5141b0472278"
+  },
+  "intent": "duree_conge",
+  "entity": "circoncision",
+  "response": "Le salarié bénéficie d’un congé de deux jours en cas de circoncision de son enfant."
+}
+{
+  "_id": {
+    "$oid": "5ce5432924be5141b0472279"
+  },
+  "intent": "duree_conge",
+  "entity": "l'operation chirurgicale",
+  "response": "Le salarié bénéficie de 2 jours de congé face à une opération chirurgicale du conjoint ou d'un enfant à charge."
+}
+{
+  "_id": {
+    "$oid": "5ce5486924be5141b047227a"
+  },
+  "intent": "procédure_congé",
+  "response": "La procédure à suivre pour obtenir un congé peut se présenter comme suit : <br/>1- demande de congé <br/>2- l'acceptation de la demande par le chef de service <br/>3- la transmision de la demande à la direction des RH <br/>4- l'acceptation et la signature du directeur de RH <br/>5- la classification du congé"
+}
+{
+  "_id": {
+    "$oid": "5d08c8830a727128f4d07ea7"
+  },
+  "intent": "duree_conge",
+  "entity": "maternite",
+  "response": "Le salarié a droit de suspendre son contrat de travail 7 semaines avant la date prévue de l’accouchement et 7 semaines après. <br/>À mentionner qu’au cas de l’existence d’un état pathologique médicalement constaté, la période peut augmenter jusqu’à 8 semaines avant la date prévue de l’accouchement et 14 semaines après. <br/>Si le salarié décide d’abandonner son poste après l’accouchement, elle doit informer l’employeur 15j avant la fin du congé de maternité."
+}
