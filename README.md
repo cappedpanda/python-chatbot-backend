@@ -88,6 +88,3 @@ class DB(object):
     authMechanism = 'SCRAM-SHA-256'
 ```
 
-
-
-By Zakaria Mejdoul : team developer  of Bots Factory Company
